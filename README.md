@@ -1,3 +1,4 @@
 # clustering-machine-learning
 Clustering homework for machine learning class
-part1 and part2 files run knn and agglomerative algoritms
+
+Part1 and part2 files can be ran on matlab and they use knn and agglomerative algoritms in the files knn. and aglo.m.
